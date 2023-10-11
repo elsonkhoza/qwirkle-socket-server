@@ -22,7 +22,7 @@ columns of tiles with the same shape, color, or number. Read more about the game
 
 **Android Client**
 
-1. Get the APK file here https://github.com/elsoncom/qwirkle-client , I will upload the code soon. 
+1. Get the client file here https://github.com/elsonza/qwirkle-android 
 2. Open the app and connect to the server by entering the server's IP address and your name
 3. Start playing Qwirkle!
 4. It supports multiple groups with 2-4 players in a group. Watch the following video for detailed info.
@@ -30,7 +30,7 @@ columns of tiles with the same shape, color, or number. Read more about the game
 ## Gameplay Video
 
 Youtube Link: 
-
+https://www.youtube.com/watch?v=JfbHhtqi0VM
 
 ## Technologies
 

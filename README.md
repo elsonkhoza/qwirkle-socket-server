@@ -40,11 +40,3 @@ https://www.youtube.com/watch?v=JfbHhtqi0VM
 * Multi-Threading
 * Multiplayer
 
-## Contact
-
-If you have any questions or feedback, please feel free to contact me at elsoncom@proton.me.
-
-## Additional Notes
-
-* The code for the Android app will be uploaded here https://github.com/elsoncom/qwirkle-client soon.
-* I had lost my old account so I am tring to recover some of my old projects. 

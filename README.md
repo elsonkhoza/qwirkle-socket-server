@@ -40,3 +40,6 @@ https://www.youtube.com/watch?v=JfbHhtqi0VM
 * Multi-Threading
 * Multiplayer
 
+## Class Diagram
+
+![Journal_Njabulo_Khoza_219311080-1](https://github.com/elsonza/qwirkle-socket-server/assets/145992011/32250476-747b-4835-94e9-482bfcf5740f)
